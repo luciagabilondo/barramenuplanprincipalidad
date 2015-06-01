@@ -298,7 +298,7 @@
                         
                         </li>
                      
-                        <li class="top"><a id="proyectos" class="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/proyectos" target="_parent">Proyectos</a>
+                        <li class="top"><a id="proyectos" class="principal" href="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/proyectos" target="_parent">Proyectos</a>
                         
                          
                         </li>
