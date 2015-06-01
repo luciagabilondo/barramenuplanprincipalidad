@@ -53,7 +53,7 @@
         }
         #dropline {
                 position:relative; 
-                font-size:14px; 
+                font-size:12px; 
                 height:38px; 
                 background:url(https://bbvagcs.googlecode.com/svn/trunk/img/fondomenuhome38.png) no-repeat;
         }
@@ -70,7 +70,7 @@
                 padding:0; 
                 width:0; 
                 height:0; 
-                font-size:14px;
+                font-size:12px;
         }
         #dropline li {
                 float:left; 
@@ -83,7 +83,7 @@
                 line-height:38px; 
                 padding:0 20px 0 10px; 
                 font-family:arial, sans-serif; 
-                font-size:14px; 
+                font-size:11px; 
                 color:#fff; 
                 text-decoration:none; 
                 font-weight:bold;
@@ -115,7 +115,7 @@
         }
 
         #title-crumbs {
-                        font-size:14px;
+                        font-size:12px;
                         color:#3F78B2;
                         text-transform: capitalize;
                         margin-top: 7px;
@@ -123,7 +123,7 @@
         a.linkBreadCrumb,
         a:visited.linkBreadCrumb {
                 fon-weight: normal;
-                font-size:14px;
+                font-size:12px;
                 color:#3F78B2;
                 text-decoration:none;
                 text-transform: capitalize;
@@ -131,7 +131,7 @@
         a:hover.linkBreadCrumb,
         a:active.linkBreadCrumb {
                 font-style: normal;
-                font-size:14px;
+                font-size:12px;
                 color:#009EE5;
                 fon-weight: normal;
                 text-decoration:none;           
@@ -139,7 +139,7 @@
         } 
         .currentBreadCrumb {
                 fon-weight: bold;
-                font-size:14px;
+                font-size:12px;
                 color:#009EE5;
                 text-decoration:none;
                 text-transform: capitalize;             
@@ -292,16 +292,12 @@
                         <li class="top"><a id="desarrollo de negocio" class="principal" href="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/desarrollo-de-negocio" target="_parent">Desarrollo de negocio</a>
                          
                         </li>
-                        <li class="top"><a id="" class="principal" href="" target="_parent"></a>
-                         
-                        </li>
+                        
                         
                          <li class="top"><a id="estrategia" class="principal" href="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/estrategia" target="_parent">Estrategia</a>
                         
                         </li>
-                     <li class="top"><a id="" class="principal" href="" target="_parent"></a>
-                         
-                        </li>
+                     
                         <li class="top"><a id="proyectos" class="https://sites.google.com/a/bbva.com/gtb-informacion-de-gestion/proyectos" target="_parent">Proyectos</a>
                         
                          
